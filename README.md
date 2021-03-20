@@ -15,3 +15,4 @@ options:
 ```
 
 The whole markdown directory is recreated, ready for Joplin's import or whatever.
+Note: Attachments aren't really supported since I didn't use those, feel free to pr.
