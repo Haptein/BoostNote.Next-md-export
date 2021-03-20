@@ -2,16 +2,14 @@
 Script to export complete BoostnoteNext local storages at once.
 
 
-
 ```
-usage: 
+usage:
+
 python boostnotnext-md-export storageFolder1 ... storageFolderN [OPTIONS]
-or 
-./ boostnotnext-md-export storageFolder1 ... storageFolderN [OPTIONS]
-(after chmod +x)
+or (after chmod +x)
+./boostnotnext-md-export storageFolder1 ... storageFolderN [OPTIONS]
 
 options:
   -t,         include trash notes.
   -h --help,  show help.
 ```
-
