@@ -13,3 +13,5 @@ options:
   -t,         include trash notes.
   -h --help,  show help.
 ```
+
+The whole markdown directory is recreated, ready for Joplin's import or whatever.
