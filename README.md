@@ -5,9 +5,9 @@ Script to export complete BoostnoteNext local storages at once as markdown direc
 ```
 usage:
 
-python boostnotnext-md-export storageFolder1 ... storageFolderN [OPTIONS]
+python boostnotnext-md-export.py storageFolder1 ... storageFolderN [OPTIONS]
 or (after chmod +x)
-./boostnotnext-md-export storageFolder1 ... storageFolderN [OPTIONS]
+./boostnotnext-md-export.py storageFolder1 ... storageFolderN [OPTIONS]
 
 options:
   -t,         include trash notes.
