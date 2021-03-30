@@ -1,5 +1,5 @@
 # BoostNote.Next-md-export
-Script to export complete BoostnoteNext local storages at once.
+Script to export complete BoostnoteNext local storages at once as markdown directories.
 
 
 ```
