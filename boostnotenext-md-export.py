@@ -51,7 +51,7 @@ def writeNote(noteData):
 for inFolder in storageFolders:
     outFolder = 'exported_' + inFolder
 
-    notes = glob.glob(f'{inFolder}/notes/*.json')
+    notes = glob.glob(inFolder + '/notes/*.json')
     if not notes:
         print('Folder', inFolder, 'is not a storage Folder.')
 
